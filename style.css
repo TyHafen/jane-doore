@@ -18,3 +18,17 @@
   object-fit: cover;
  height: 100px;
 }
+
+.link-button{
+  background-color: rgba(255, 255, 0, 0.733);
+  border-color: rgb(51, 48, 97);
+  border-radius: 5%;
+ transform: translateY(-100%);
+}
+.text-border{
+  text-shadow: 0 0 14px black;
+}
+
+.story-button{
+  background-color: rgba(255, 255, 255, 0.849);
+}
