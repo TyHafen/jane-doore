@@ -1,0 +1,20 @@
+.nav-logo{
+  object-fit: cover;
+}
+.blog{
+  object-fit: cover;
+  width: 275px;
+  height: 200px;
+  border-radius: 2%;
+  transform: translateY(3%);
+}
+.banner{
+  background-image: url(https://i.redd.it/8em1phl0kda31.jpg);
+  object-fit: cover;
+  background-size: cover;
+  background-position: center;
+}
+.icons{
+  object-fit: cover;
+ height: 100px;
+}
